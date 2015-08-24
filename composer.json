@@ -14,5 +14,10 @@
             "xhprof_lib/utils/xhprof_runs.php"
         ]
     },
-    "bin": ["bin/xhprofile"]
+    "bin": ["bin/xhprofile"],
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    }
 }
