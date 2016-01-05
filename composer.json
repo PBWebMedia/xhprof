@@ -15,6 +15,10 @@
         ]
     },
     "bin": ["bin/xhprofile"],
+    "replace": {
+        "facebook/xhprof": "*",
+        "lox/xhprof": "*"
+    },
     "extra": {
         "branch-alias": {
             "dev-master": "1.0.x-dev"
